@@ -24,7 +24,7 @@ $Username = "zerto@lab.local"
 $Password = "Zerto1234!"
 $CSVDirectory =	"C:\Logs\Zerto\"
 # Configure target ZVM resource report sampling rate, by default daily, if left as daily then set the below to false and all ZVMs should be configured to the same setting
-$ResourceReportHourlySample	= "FALSE"
+$ResourceReportHourlySample	="FALSE"
 ################################################
 # SMTP Email Profile Settings
 ################################################
